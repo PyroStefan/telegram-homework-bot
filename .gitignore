@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+homeworl.db
+*.db
+API_KEY
